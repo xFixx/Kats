@@ -1,5 +1,5 @@
 LunarCalendar>=0.0.9
-ax-platform==0.2.9
+ax-platform==0.2.6
 prophet==1.1.2
 gpytorch<1.9.0
 holidays>=0.10.2
